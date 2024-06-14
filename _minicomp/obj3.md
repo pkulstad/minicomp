@@ -18,4 +18,7 @@ description: |-
 order: '2'
 layout: minicomp_item
 collection: minicomp
+thumbnail: "/img/derivatives/iiif/images/obj3_1/full/250,/0/default.jpg"
+full: "/img/derivatives/iiif/images/obj3_1/full/1140,/0/default.jpg"
+manifest: "/img/derivatives/iiif/obj3/manifest.json"
 ---

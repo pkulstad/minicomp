@@ -12,6 +12,7 @@ layout: none
     "_date_manufacture": "1560 ca",
     "place_manufacture_eng": "Germany",
     "collection": "minicomp",
+    "thumbnail": "/img/derivatives/iiif/images/obj1_0/full/250,/0/default.jpg",
     "content": " ",
     "permalink": "/minicomp/obj1",
     "lunr_id": 0
@@ -26,6 +27,7 @@ layout: none
     "_date_manufacture": "1600 ca",
     "place_manufacture_eng": "Desconocido",
     "collection": "minicomp",
+    "thumbnail": "/img/derivatives/iiif/images/obj2_1/full/250,/0/default.jpg",
     "content": " ",
     "permalink": "/minicomp/obj2",
     "lunr_id": 1
@@ -40,6 +42,7 @@ layout: none
     "_date_manufacture": "1600 ca",
     "place_manufacture_eng": "Desconocido",
     "collection": "minicomp",
+    "thumbnail": "/img/derivatives/iiif/images/obj3_1/full/250,/0/default.jpg",
     "content": " ",
     "permalink": "/minicomp/obj3",
     "lunr_id": 2

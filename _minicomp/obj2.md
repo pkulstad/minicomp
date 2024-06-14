@@ -20,4 +20,7 @@ source: https://www.youtube.com/watch?v=RzIApZU-ZK8
 order: '1'
 layout: minicomp_item
 collection: minicomp
+thumbnail: "/img/derivatives/iiif/images/obj2_1/full/250,/0/default.jpg"
+full: "/img/derivatives/iiif/images/obj2_1/full/1140,/0/default.jpg"
+manifest: "/img/derivatives/iiif/obj2/manifest.json"
 ---
